@@ -4,6 +4,9 @@ by reading https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-
 ## Supplement
 add more config from webpack-demo(init from official document)
 
+## NodeVersion
+use 14.21.3 or lower.
+
 ## Script execute
 start server:
 webpack-dev-server --mode development --config config/webpack.base.config.js --open --hot --history-api-fallback
